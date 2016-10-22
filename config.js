@@ -1,10 +1,10 @@
 // config.js
 export default {
   site: {
-    title: 'UniBlog'
+    title: 'UniBlog using ReactJS'
   },
   bucket: {
     slug: 'uniblog-using-reactjs',
-    media_url: 'https://cosmicjs.com/uploads'
+    media_url: 'https://api.cosmicjs.com/v1/uniblog-using-reactjs/'
   }
 }
