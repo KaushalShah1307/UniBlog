@@ -4,7 +4,7 @@ export default {
     title: 'UniBlog'
   },
   bucket: {
-    slug: 'UniBlog using ReactJS',
+    slug: 'uniblog-using-reactjs',
     media_url: 'https://cosmicjs.com/uploads'
   }
 }
